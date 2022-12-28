@@ -1,0 +1,1 @@
+{"jobID":"cbc51420-da61-57e0-0dcb-678f39e29156","spec":{"type":"policy","cause":{"Message":"","User":"Alex Rodrigues \u003calex.rodrigues@staples.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"tag.nginxhello":"glob:server:~1.19.x"},"remove":{}}}},"result":null}
