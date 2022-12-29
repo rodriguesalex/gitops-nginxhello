@@ -20,7 +20,7 @@ spec:
         app: nginxhello
     spec:
       containers:
-      - image: rodriguesalex/nginxhello:1.19.0
+      - image: nbrown/nginxhello:1.19.0
         name: nginxhello
         ports:
         - containerPort: 80
