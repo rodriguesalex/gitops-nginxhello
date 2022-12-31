@@ -1,0 +1,1 @@
+{"jobID":"b6e0fe51-9cdf-db2d-fed1-1ae6444adcac","spec":{"type":"policy","cause":{"Message":"","User":"Alex Rodrigues \u003calex.rodrigues@staples.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"tag.nginxhello":"semver:~1.20.x"},"remove":{}}}},"result":null}
